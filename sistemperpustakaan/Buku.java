@@ -1,9 +1,5 @@
 package sistemperpustakaan;
 
-/**
- *
- * @author rakhm
- */
 public class Buku {
     private String judul;
     private String pengarang;
